@@ -1,0 +1,23 @@
+{
+  "raw_train_sha256": "534375d6bb8630d22ab46a56e11f2ffec1d288d8f7d04099bc82d68948705941",
+  "schema_and_answers_valid": true,
+  "train_no_eval_overlap_rows": 14480,
+  "row_counts": {
+    "processed\\train.parquet": 14485,
+    "benchmarks\\aime-2025.parquet": 30,
+    "benchmarks\\aime-2025_verl.parquet": 30,
+    "benchmarks\\aime-24.parquet": 30,
+    "benchmarks\\aime-24_verl.parquet": 30,
+    "benchmarks\\math500.parquet": 500,
+    "benchmarks\\math500_verl.parquet": 500
+  },
+  "exact_normalized_question_overlap_with_train": {
+    "aime-2025.parquet": 0,
+    "aime-2025_verl.parquet": 0,
+    "aime-24.parquet": 0,
+    "aime-24_verl.parquet": 0,
+    "math500.parquet": 4,
+    "math500_verl.parquet": 4
+  },
+  "overlap_note": "Exact normalized matching only; paraphrase contamination is not ruled out."
+}

@@ -1,0 +1,13 @@
+{
+  "source_repo": "BytedTsinghua-SIA/DAPO-Math-17k",
+  "revision": "65877096c24ffa7abc4e4fa5edb95cf3413a5674",
+  "raw_rows": 1791700,
+  "unique_ids": 17917,
+  "repetition_counts": {
+    "100": 17917
+  },
+  "excluded_language": 3432,
+  "train_rows": 14485,
+  "language_filter": "Reject Han/Cyrillic/Kana/Hangul; heuristic English candidates, not author's exact subset",
+  "prompt_change": "Remove DAPO Answer: wrapper; apply paper system prompt with boxed answer"
+}

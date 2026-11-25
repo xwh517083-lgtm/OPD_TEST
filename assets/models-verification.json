@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Qwen/Qwen3-0.6B",
+    "files": 10,
+    "verified_sha256_files": 2,
+    "bytes": 1519209243,
+    "valid": true
+  },
+  {
+    "model": "Qwen/Qwen3-1.7B",
+    "files": 12,
+    "verified_sha256_files": 3,
+    "bytes": 4079450110,
+    "valid": true
+  },
+  {
+    "model": "Qwen/Qwen3-4B-Instruct-2507",
+    "files": 13,
+    "verified_sha256_files": 4,
+    "bytes": 8060917568,
+    "valid": true
+  }
+]
